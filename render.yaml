@@ -15,7 +15,7 @@ services:
     buildCommand: npm install
     startCommand: npm run start:api
     healthCheckPath: /api/auth/config
-    # Production URL: https://meridian20.onrender.com/ (dashboard at /)
+    # Production URL: https://meridian20.onrender.com/ (landing /, dashboard /app)
     envVars:
       - key: NODE_ENV
         value: production

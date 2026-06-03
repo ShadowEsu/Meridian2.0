@@ -158,8 +158,8 @@ curl https://meridian20.onrender.com/api/models
 
 In browser:
 
-1. Open `https://meridian20.onrender.com/`
-2. Should auto-detect live mode (probes `/api/auth/config`)
+1. Open `https://meridian20.onrender.com/` — marketing landing page
+2. Click **Start free** → `https://meridian20.onrender.com/app` (dashboard; auto-detects live mode)
 3. Click **Sign in with Google**
 4. Land in dashboard after Google approves
 

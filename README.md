@@ -292,7 +292,7 @@ npm install
 npm run start:api
 ```
 
-Open **`http://localhost:5500/`** (production mirror: **`https://meridian20.onrender.com/`**)
+Open **`http://localhost:5500/`** (landing) · dashboard **`/app`** (production: **`https://meridian20.onrender.com/app`**)
 
 Optional demo data:
 
